@@ -1,0 +1,12 @@
+set tabsize 2
+set autoindent
+set trimblanks
+set linenumbers
+set constantshow
+set titlecolor white,blue
+set keycolor cyan
+set functioncolor cyan
+set numbercolor white
+set mouse
+include /usr/local/share/nano/*.nanorc
+
